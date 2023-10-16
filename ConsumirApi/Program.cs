@@ -43,7 +43,7 @@ namespace ConsumirApi
                     Console.WriteLine("ID informado não existe na nossa base de dados.\n\n");
                     opcao = "Sim";
                 }
-            } while (opcao == "Sim");
+            } while (opcao == "Sim" || opcao == "sim" || opcao == "s" || opcao == "S");
 
             Console.WriteLine("Espero te ver outra vez, até logo");
 
