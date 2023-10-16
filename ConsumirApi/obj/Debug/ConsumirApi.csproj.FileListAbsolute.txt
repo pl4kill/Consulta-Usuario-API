@@ -1,0 +1,10 @@
+C:\Desenvolvimento\C#\Api\ConsumidorApiAluno\ConsumirApi\ConsumirApi\obj\Debug\ConsumirApi.csproj.AssemblyReference.cache
+C:\Desenvolvimento\C#\Api\ConsumidorApiAluno\ConsumirApi\ConsumirApi\obj\Debug\ConsumirApi.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\C#\Api\ConsumidorApiAluno\ConsumirApi\ConsumirApi\bin\Debug\ConsumirApi.exe.config
+C:\Desenvolvimento\C#\Api\ConsumidorApiAluno\ConsumirApi\ConsumirApi\bin\Debug\ConsumirApi.exe
+C:\Desenvolvimento\C#\Api\ConsumidorApiAluno\ConsumirApi\ConsumirApi\bin\Debug\ConsumirApi.pdb
+C:\Desenvolvimento\C#\Api\ConsumidorApiAluno\ConsumirApi\ConsumirApi\obj\Debug\ConsumirApi.exe
+C:\Desenvolvimento\C#\Api\ConsumidorApiAluno\ConsumirApi\ConsumirApi\obj\Debug\ConsumirApi.pdb
+C:\Desenvolvimento\C#\Api\ConsumidorApiAluno\ConsumirApi\ConsumirApi\bin\Debug\Newtonsoft.Json.dll
+C:\Desenvolvimento\C#\Api\ConsumidorApiAluno\ConsumirApi\ConsumirApi\bin\Debug\Newtonsoft.Json.xml
+C:\Desenvolvimento\C#\Api\ConsumidorApiAluno\ConsumirApi\ConsumirApi\obj\Debug\ConsumirApi.csproj.CopyComplete
